@@ -9,10 +9,10 @@
           "sources": [
             "https://www.dropbox.com/sh/53qdwshrwbd52el/AACQaHuWga7I02bdnYu3Aw2Qa?dl=0&preview=15+min+arms.MOV"
           ],
-          "card": "ten_minute_med.png",
-          "background": "birds_on_street_at_city_bg.jpg",
-          "title": "Birds on street at city",
-          "studio": "Pexel: https://videos.pexels.com/videos/birds-on-street-at-city-485"
+          "card": "https://www.dropbox.com/sh/dajjf43jn4fjuyl/AADxHBqT2sLO3EUuI6TKAS0ma?dl=0&preview=Screen+Shot+2018-09-14+at+8.33.34+PM.png",
+          "background": "https://www.dropbox.com/sh/dajjf43jn4fjuyl/AADxHBqT2sLO3EUuI6TKAS0ma?dl=0&preview=Screen+Shot+2018-09-14+at+8.33.34+PM.png",
+          "title": "10 Minute Meditation"
+          
         },
         {
           "id": 1,
@@ -22,8 +22,7 @@
           ],
           "card": "waterfall_stream_nature_thumbnail.jpg",
           "background": "waterfall_stream_nature_bg.jpg",
-          "title": "Waterfall stream nature",
-          "studio": "Pexel: https://videos.pexels.com/videos/waterfall-stream-nature-423"
+          "title": "Waterfall stream nature"
         },
         {
           "id": 2,
@@ -33,8 +32,7 @@
           ],
           "card": "slow_motion_dog_people_and_a_firecracker_thumbnail.jpg",
           "background": "slow_motion_dog_people_and_a_firecracker_bg.jpg",
-          "title": "Slow motion dog people and a firecracker",
-          "studio": "Pexel: https://videos.pexels.com/videos/slow-motion-dog-people-and-a-firecracker-525 "
+          "title": "Slow motion dog people and a firecracker"
         }
       ]
     }
